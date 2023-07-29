@@ -1,4 +1,4 @@
-![image](https://github.com/goriblok1235/Mail_Application_with_GUI/assets/89899253/8b6d23f8-a931-4fa7-91fd-785c74858217)# Mail_Application_with_GUI
+# Mail_Application_with_GUI
 This is a GUI Mail Application designed to facilitate sending and receiving emails through Gmail. The application provides an intuitive and user-friendly interface to manage your emails efficiently.
 
 # Contents :
