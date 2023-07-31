@@ -32,6 +32,9 @@ This is a GUI Mail Application designed to facilitate sending and receiving emai
 
 ![Screenshot (68)](https://github.com/goriblok1235/Mail_Application_with_GUI/assets/89899253/f13e4cf4-42bf-4e6a-aae1-c728aa639111)
 
+
+# Youtube Video Link :
+https://youtu.be/VNhxGzkx3V0
 # Prerequisites :
 This code will run only on Python3.X
 You need to have Python3.X on your PC, you can [Download here](https://www.python.org/downloads/)
