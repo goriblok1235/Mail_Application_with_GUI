@@ -28,6 +28,9 @@ This is a GUI Mail Application designed to facilitate sending and receiving emai
 3. To Compose a new email first you have to give the exact email id in 'To' body , then fill the Subject after that you can write a message below and also you can attach some files if you want after that go to the setting  button which is loacted at the top right corner and you need to give your informations like mail id and password and then save it, it will generate one txt file after that send that compose email , it will show the email is sent successfully.
 
 # Screenshots :
+![Screenshot (69)](https://github.com/goriblok1235/Mail_Application_with_GUI/assets/89899253/5e31ac13-8548-48ee-869f-708d6d2aeb50)
+
+![Screenshot (68)](https://github.com/goriblok1235/Mail_Application_with_GUI/assets/89899253/f13e4cf4-42bf-4e6a-aae1-c728aa639111)
 
 # Prerequisites :
 This code will run only on Python3.X
