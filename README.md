@@ -16,7 +16,7 @@ This is a GUI Mail Application designed to facilitate sending and receiving emai
 
 # Modules Used :  
 1. Tkinter Module
-2. smptlib Module
+2. smtplib Module
 3. OS
 4. imghdr
 5. pandas
