@@ -6,17 +6,17 @@ This is a GUI Mail Application designed to facilitate sending and receiving emai
 2. Modules Used
 3. Working Process
 4. Screenshots
-5. Contributer
+5. Youtube Video Link 
+6. Contributer
 
 # Features :
-1. Compose Emails: Easily compose and send emails to your contacts using a text editor.
-2. Receive Emails: Access and read your incoming emails conveniently within the application.
-3. Attachments: Attach files to your emails and send them to recipients.
-4. Also We can add multiple emails using browse button and send those all emails together at one time.
+1. Compose Emails: Easily compose and send emails to your contacts emails using a text editor (message).
+2. Attachments: Attach files to your emails and send them to recipients.
+3. Also We can add multiple emails using browse button and send those all emails together at one time.
 
 # Modules Used :  
 1. Tkinter Module
-2. smplib Module
+2. smptlib Module
 3. OS
 4. imghdr
 5. pandas
